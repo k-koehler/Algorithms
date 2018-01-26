@@ -1,0 +1,4 @@
+===How to run===
+1. cd into the folder with all the files
+2. type 'make tests' in bash terminal
+3. if diffs display output, then expected different than output, otherwise all tests passed

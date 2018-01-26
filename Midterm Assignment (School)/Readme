@@ -1,0 +1,3 @@
+====HOW TO RUN====
+1. cd into the directory containing the files
+2. type 'make tests'
