@@ -78,7 +78,7 @@ int main(int argc, char** argv){
 		std::cout<<"failure";
 		return -1;
 	}
-	for(auto s : g){
+	for(auto s : path){
 		std::cout << s->value + " ";
 	}
 	std::cout<<::std::endl;
